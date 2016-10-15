@@ -5,14 +5,6 @@
     <link rel="stylesheet" type="text/css" href="style.css">
   </head>
   <body>
- 
-
-
-
-
-
-
-    <div id="header">
     <div id=“navbar”>
   <nav>
     <a href=“mywebsite.html”>Home</a>
@@ -20,6 +12,7 @@
     <a href=“#interests”>Interests</a>
   </nav>
 </div>
+    <div id="header">
     <h1>Bruin Runners</h1>
     <img src="http://www.active.com/Assets/Running/620/What+is+Maximalist+Running+LPF.jpg" id="prof-pic">
     <p>Life's short shorts but we're in it for the long run!</p>
